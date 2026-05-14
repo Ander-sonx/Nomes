@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "nome": "Alice",
+    "significado": "De qualidade nobre, de linhagem nobre.",
+    "genero": "F"
+  },
+  {
+    "id": "2",
+    "nome": "Theo",
+    "significado": "Deus supremo, dádiva divina.",
+    "genero": "M"
+  },
+  {
+    "id": "3",
+    "nome": "Helena",
+    "significado": "A reluzente, a resplandecente.",
+    "genero": "F"
+  },
+  {
+    "id": "4",
+    "nome": "Gael",
+    "significado": "Belo e generoso, o que protege.",
+    "genero": "M"
+  },
+  {
+    "id": "5",
+    "nome": "Ravi",
+    "significado": "O Sol, luz do sol.",
+    "genero": "M"
+  }
+]
