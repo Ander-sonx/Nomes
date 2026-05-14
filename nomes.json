@@ -19,14 +19,8 @@
   },
   {
     "id": "4",
-    "nome": "Gael",
+    "nome": "Gael",  
     "significado": "Belo e generoso, o que protege.",
     "genero": "M"
   },
-  {
-    "id": "5",
-    "nome": "Ravi",
-    "significado": "O Sol, luz do sol.",
-    "genero": "M"
-  }
 ]
